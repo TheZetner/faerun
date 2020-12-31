@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Falsehold.md",
+            "file": "sessions/20201209.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Falsehold.md",
+                "file": "sessions/20201209.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Falsehold.md"
+                "file": "sessions/20201209.md"
               }
             }
           }
@@ -104,14 +104,14 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "sessions/20201209.md",
+    "Untitled.md",
     "Falsehold.md",
     "Recipes.md",
     "Baronar Truesilver.md",
-    "sessions/20201209.md",
     "Quests.md",
     "Inserra.md",
     "Sylvanist.md",
-    "Untitled.md",
     "Unknown Village.md",
     "Scarred Bandit.md"
   ]
