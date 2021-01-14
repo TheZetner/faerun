@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sessions/20201230.md",
+            "file": "Will o' the Wisp Lantern.md",
             "mode": "source"
           }
         }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sessions/20210106.md",
+            "file": "sessions/20210113.md",
             "mode": "source"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/20210106.md",
+                "file": "sessions/20210113.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/20210106.md"
+                "file": "sessions/20210113.md"
               }
             }
           }
@@ -115,15 +115,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "sessions/20210106.md",
-    "sessions/20201230.md",
-    "sessions/20201209.md",
-    "20201230.md",
-    "20210106.md",
+    "sessions/20210113.md",
+    "Winter Orb.md",
     "Untitled.md",
-    "Recipes.md",
-    "20201223.md",
-    "Falsehold.md",
-    "Baronar Truesilver.md"
+    "Dagger of Venom.md",
+    "Jik.md",
+    "sessions/20201230.md",
+    "sessions/20210106.md",
+    "Horetia.md",
+    "Curtis.md",
+    "Sylvan.md"
   ]
 }
