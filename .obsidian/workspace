@@ -4,13 +4,43 @@
     "type": "split",
     "children": [
       {
+        "id": "991f38600fdd7be3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "20210303.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5d0d0f4b3784393d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "20210303.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
         "id": "3175800b1b80d1e2",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20210120.md",
+            "file": "20210303.md",
             "mode": "source"
           }
         }
@@ -88,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20210120.md",
+                "file": "20210303.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +133,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20210120.md"
+                "file": "20210303.md"
+              }
+            }
+          },
+          {
+            "id": "f1c46dd9c1fcf661",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -115,15 +156,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "20210303.md",
+    "Untitled.md",
+    "characters/Rastus.md",
+    "hometown.md",
+    "Lifegarrin.md",
+    "Sigil.md",
+    "20210217.md",
     "20210120.md",
     "sessions/20210113.md",
-    "Jatch.md",
-    "characters/Rastus.md",
-    "Untitled.md",
-    "Recipes.md",
-    "Will o' the Wisp Lantern.md",
-    "Winter Orb.md",
-    "Dagger of Venom.md",
-    "Jik.md"
+    "Jatch.md"
   ]
 }

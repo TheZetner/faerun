@@ -3,6 +3,7 @@
 ## Family
 
 ## Home
+[[hometown]]
 
 # Personality
 ## Traits
