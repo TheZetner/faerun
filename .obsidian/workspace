@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "991f38600fdd7be3",
+        "id": "942196df44199a01",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "20210303.md",
+            "file": "20210317.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -19,12 +19,12 @@
         }
       },
       {
-        "id": "5d0d0f4b3784393d",
+        "id": "22b51622dc26c84b",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "20210303.md",
+            "file": "20210317.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -40,7 +40,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20210303.md",
+            "file": "20210317.md",
             "mode": "source"
           }
         }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20210303.md",
+                "file": "20210317.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20210303.md"
+                "file": "20210317.md"
               }
             }
           },
@@ -156,15 +156,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "20210303.md",
+    "20210317.md",
+    "Dagger of Venom.md",
+    "sessions/20210303.md",
     "Untitled.md",
+    "20210303.md",
     "characters/Rastus.md",
     "hometown.md",
     "Lifegarrin.md",
     "Sigil.md",
-    "20210217.md",
-    "20210120.md",
-    "sessions/20210113.md",
-    "Jatch.md"
+    "20210217.md"
   ]
 }
