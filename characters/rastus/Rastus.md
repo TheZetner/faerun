@@ -1,6 +1,6 @@
 # [[Background]]
 
-# [[Character Development]]
+# [[Character]]
 
 # [[Equipment]]
 

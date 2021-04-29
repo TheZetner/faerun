@@ -1,0 +1,1 @@
+[[Orisin]] tells us he searches for a [[Tome]] that has three parts, the Manor is the last known whereabouts of the first part.   

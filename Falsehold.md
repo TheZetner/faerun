@@ -17,6 +17,8 @@ Bartender is Riks. Chauncey is serving boy.
 
 Soaring eagle beer sold by the [[Scarred Bandit]]
 
+We gave them the Week Stay certificate which is being spent on upgrading the inn 
+
 # NPCs
 
 [[Rorek]]

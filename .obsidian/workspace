@@ -4,30 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "06b513295278a225",
+        "id": "667a2be90e2bfd86",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dagger of Venom.md",
+            "file": "20210428.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "81dfd830df3c8173",
+        "id": "e999daef85df10e4",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dagger of Venom.md",
+            "file": "20210428.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -36,11 +40,10 @@
       {
         "id": "d6804b4b7fbf84d9",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dagger of Venom.md",
+            "file": "20210428.md",
             "mode": "source"
           }
         }
@@ -70,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "crow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,10 +110,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dagger of Venom.md",
+                "file": "20210428.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dagger of Venom.md"
+                "file": "20210428.md"
               }
             }
           },
@@ -145,16 +150,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "d6804b4b7fbf84d9",
   "lastOpenFiles": [
-    "Dagger of Venom.md",
-    "Untitled.md",
-    "20210331.md",
-    "characters/rastus/Rastus.md",
-    "Personality.md",
+    "20210428.md",
+    "characters/bodhi/Bodhi.md",
     "characters/rastus/Background.md",
-    "characters/rastus/Equipment.md",
-    "characters/rastus/Character Development.md",
-    "Background.md",
-    "Equipment.md"
+    "Untitled.md",
+    "20210414.md",
+    "characters/rastus/Interludes.md",
+    "Curtis.md",
+    "sessions/20201125.md",
+    "Falsehold.md",
+    "Lifegarrin.md"
   ]
 }
